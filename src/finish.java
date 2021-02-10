@@ -6,6 +6,7 @@ public class finish {
         for (int i = 0; i < line.length(); i++) {
             arr[i] = Integer.parseInt(line.substring(i, i + 1));
         }
+        //ituitviuviuyv
 
         for (int j = arr.length - 1; j >= 0; j--) {
             if (arr[j] != 0) {
